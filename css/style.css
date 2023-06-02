@@ -1,9 +1,12 @@
 
-* {
+*.home-page {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+.box-text{padding: 60px;}
+.box-image{background-position: center center;background-size: cover;display: block;height: 100%;width: 100%;opacity: 1;z-index: 1;}
 
 html {
 	-webkit-text-size-adjust: none;
